@@ -1,4 +1,5 @@
 #En este código se preguntaran diferentes tipos de datos.
+#Esta funcion se usa para poder trabajar con datos tipo datetime
 import datetime
 # Los datos se tienen, se preguntan o se calculan.
 
