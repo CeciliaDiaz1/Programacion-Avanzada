@@ -1,0 +1,22 @@
+# Nombre de la clase
+class Paises():
+
+#Argumentos
+    def __init__(self,NombreIng,NombreEsp,Poblacion,PDC,Fallecidos,Contagiados):
+#def _init_ es lo que python reconoce y automaticamente que se crea un objeto se ejecutara inmediatamente.
+#self, nos sirve para guardar la referencia de nuestro objeto.
+
+#Objetos
+        self.NombreIng = NombreIng
+        self.NombreEsp = NombreEsp
+        self.Poblacion = Poblacion
+        self.PDC = PDC
+        self.Fallecidos = Fallecidos
+        self.Contagiados = Contagiados
+
+class  Incidentes():
+    def __init__(self,Pais,Fecha,NContangios,NFallecidos):
+        self.Fecha = Fecha
+        self.Pais = Pais
+        self.NContangios = NContangios
+        self.NFallecidos = NFallecidos
