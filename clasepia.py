@@ -18,3 +18,4 @@ class Contacto:
     self.fechanacimiento=fechanacimiento
     #gastos = Gasto mensual del contacto
     self.gastos=gastos
+    
