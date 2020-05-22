@@ -1,3 +1,5 @@
+# PROFESOR EL PIA LO REALIZE DE MANERA INDIVIDUAL.
+
 # Se importa la librería para tipo fecha.
 import datetime
 # Se usa este módulo para poder ejecutar tareas desde el sistema operativo.
