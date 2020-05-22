@@ -1,3 +1,5 @@
+# PROFESOR EL PIA LO REALIZE DE MANERA INDIVIDUAL.
+
 # Se importa la librería para tipo fecha.
 import datetime
 
@@ -18,4 +20,4 @@ class Contacto:
     self.fechanacimiento=fechanacimiento
     #gastos = Gasto mensual del contacto
     self.gastos=gastos
-    
+   
